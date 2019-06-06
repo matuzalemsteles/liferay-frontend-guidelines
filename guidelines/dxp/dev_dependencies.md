@@ -24,7 +24,8 @@ Some of the reasons to "veto" arbitrary developer dependencies are:
 The best way to get a developer dependency approved for Liferay DXP is to prove its worth to your fellow frontends. To that end, please:
 
 -   Head over to https://github.com/liferay/liferay-npm-tools and create a new issue
--   Prefix your issue title with `[dev:dependency]` like: - `[dev:dependency] Add Storybook` - `[dev:dependency] Update Eslint`
+-   Give your issue a title like: `Add Storybook` or `Update Eslint`
+-   Tag it with [the dev-dependency label](https://github.com/liferay/liferay-npm-tools/labels/dev-dependency)
 -   Present your case, explaining why this new or updated dependency is useful to you and probably to others
 -   Work with the team to present a proposal or find suitable alternatives
 
